@@ -9,9 +9,8 @@ namespace lesson1
     class Program
     {
         static void Main(string[] args)
-        {
-
-            Console.WriteLine("hello logos ");
+            
+            <h1>heello logos</h1>
         }
     }
 }
