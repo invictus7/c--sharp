@@ -10,7 +10,8 @@ namespace lesson1
     {
         static void Main(string[] args)
             
-            <h1>heello logos</h1>
+                        Console.WriteLine("hello logos ");
+
         }
     }
 }
