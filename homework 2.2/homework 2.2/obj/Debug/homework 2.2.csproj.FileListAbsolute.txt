@@ -1,0 +1,6 @@
+D:\c#\homework 2.2\homework 2.2\bin\Debug\homework 2.2.exe.config
+D:\c#\homework 2.2\homework 2.2\bin\Debug\homework 2.2.exe
+D:\c#\homework 2.2\homework 2.2\bin\Debug\homework 2.2.pdb
+D:\c#\homework 2.2\homework 2.2\obj\Debug\homework 2.2.csprojResolveAssemblyReference.cache
+D:\c#\homework 2.2\homework 2.2\obj\Debug\homework 2.2.exe
+D:\c#\homework 2.2\homework 2.2\obj\Debug\homework 2.2.pdb

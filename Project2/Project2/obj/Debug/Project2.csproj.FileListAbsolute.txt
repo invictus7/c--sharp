@@ -1,0 +1,2 @@
+D:\c#\Project2\Project2\bin\Debug\Project2.exe.config
+D:\c#\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
