@@ -4,3 +4,6 @@ D:\c#\homework3\homework3\bin\Debug\homework3.exe
 D:\c#\homework3\homework3\bin\Debug\homework3.pdb
 D:\c#\homework3\homework3\obj\Debug\homework3.exe
 D:\c#\homework3\homework3\obj\Debug\homework3.pdb
+D:\c#\c--sharp\homework3\homework3\bin\Debug\homework3.exe.config
+D:\c#\c--sharp\homework3\homework3\obj\Debug\homework3.exe
+D:\c#\c--sharp\homework3\homework3\obj\Debug\homework3.pdb
