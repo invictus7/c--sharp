@@ -59,7 +59,7 @@ namespace matrix2
                 {
                     for (int j = 0; j < 4; j++)
                     {
-                        if (matrix1[i,j]== matrix2[i,j])
+                        if (matrix1 != matrix2)
                         {
                             similar = s + similar;
                         }
