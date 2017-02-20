@@ -1,0 +1,6 @@
+D:\c#\palindrom\palindrom\bin\Debug\palindrom.exe.config
+D:\c#\palindrom\palindrom\bin\Debug\palindrom.exe
+D:\c#\palindrom\palindrom\bin\Debug\palindrom.pdb
+D:\c#\palindrom\palindrom\obj\Debug\palindrom.csprojResolveAssemblyReference.cache
+D:\c#\palindrom\palindrom\obj\Debug\palindrom.exe
+D:\c#\palindrom\palindrom\obj\Debug\palindrom.pdb
