@@ -1,6 +1,0 @@
-D:\c#\palindromSator\palindromSator\bin\Debug\palindromSator.exe.config
-D:\c#\palindromSator\palindromSator\obj\Debug\palindromSator.csprojResolveAssemblyReference.cache
-D:\c#\palindromSator\palindromSator\bin\Debug\palindromSator.exe
-D:\c#\palindromSator\palindromSator\bin\Debug\palindromSator.pdb
-D:\c#\palindromSator\palindromSator\obj\Debug\palindromSator.exe
-D:\c#\palindromSator\palindromSator\obj\Debug\palindromSator.pdb
