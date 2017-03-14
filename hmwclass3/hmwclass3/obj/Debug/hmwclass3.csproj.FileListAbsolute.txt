@@ -1,0 +1,9 @@
+D:\c#\hmwclass3\hmwclass3\bin\Debug\hmwclass3.exe.config
+D:\c#\hmwclass3\hmwclass3\bin\Debug\hmwclass3.exe
+D:\c#\hmwclass3\hmwclass3\bin\Debug\hmwclass3.pdb
+D:\c#\hmwclass3\hmwclass3\obj\Debug\hmwclass3.csprojResolveAssemblyReference.cache
+D:\c#\hmwclass3\hmwclass3\obj\Debug\hmwclass3.exe
+D:\c#\hmwclass3\hmwclass3\obj\Debug\hmwclass3.pdb
+D:\c#\c--sharp\hmwclass3\hmwclass3\bin\Debug\hmwclass3.exe.config
+D:\c#\c--sharp\hmwclass3\hmwclass3\obj\Debug\hmwclass3.exe
+D:\c#\c--sharp\hmwclass3\hmwclass3\obj\Debug\hmwclass3.pdb

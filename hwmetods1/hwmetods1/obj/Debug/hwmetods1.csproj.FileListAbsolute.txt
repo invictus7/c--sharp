@@ -1,0 +1,12 @@
+D:\c#\hwmetods1\hwmetods1\bin\Debug\hwmetods1.exe.config
+D:\c#\hwmetods1\hwmetods1\bin\Debug\hwmetods1.exe
+D:\c#\hwmetods1\hwmetods1\bin\Debug\hwmetods1.pdb
+D:\c#\hwmetods1\hwmetods1\obj\Debug\hwmetods1.exe
+D:\c#\hwmetods1\hwmetods1\obj\Debug\hwmetods1.pdb
+D:\c#\hwmetods1\hwmetods1\obj\Debug\hwmetods1.csprojResolveAssemblyReference.cache
+D:\c#\c--sharp\hwmetods1\hwmetods1\bin\Debug\hwmetods1.exe.config
+D:\c#\c--sharp\hwmetods1\hwmetods1\obj\Debug\hwmetods1.exe
+D:\c#\c--sharp\hwmetods1\hwmetods1\obj\Debug\hwmetods1.pdb
+D:\c#\c--sharp\hwmetods1\hwmetods1\bin\Debug\hwmetods1.exe
+D:\c#\c--sharp\hwmetods1\hwmetods1\bin\Debug\hwmetods1.pdb
+D:\c#\c--sharp\hwmetods1\hwmetods1\obj\Debug\hwmetods1.csprojResolveAssemblyReference.cache

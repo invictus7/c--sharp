@@ -31,8 +31,15 @@ namespace palindrom
 
             while (palindrom[i] == palindrom[n - 1 - i] && i < n / 2)
             {
-                Console.WriteLine(i+ " - " + (n - 1 - i));
+               Console.WriteLine(i+ " - " + (n - 1 - i));
                 i = i + 1;
+                //if (palindrom[i] == palindrom[n - 1 - i] && i < n / 2)
+                //{
+                //    i = i + 1;
+                //    Console.WriteLine("palindrom");
+                //}
+                
+
             }
             Console.WriteLine(i);
 

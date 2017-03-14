@@ -10,3 +10,9 @@ D:\c#\c--sharp\palindromSator\palindromSator\obj\Debug\palindromSator.pdb
 D:\c#\c--sharp\palindromSator\palindromSator\bin\Debug\palindromSator.exe
 D:\c#\c--sharp\palindromSator\palindromSator\bin\Debug\palindromSator.pdb
 D:\c#\c--sharp\palindromSator\palindromSator\obj\Debug\palindromSator.csprojResolveAssemblyReference.cache
+D:\c#\c--sharp\hw.4palindromSator\palindromSator\bin\Debug\palindromSator.exe.config
+D:\c#\c--sharp\hw.4palindromSator\palindromSator\obj\Debug\palindromSator.exe
+D:\c#\c--sharp\hw.4palindromSator\palindromSator\obj\Debug\palindromSator.pdb
+D:\c#\c--sharp\hw.4palindromSator\palindromSator\bin\Debug\palindromSator.exe
+D:\c#\c--sharp\hw.4palindromSator\palindromSator\bin\Debug\palindromSator.pdb
+D:\c#\c--sharp\hw.4palindromSator\palindromSator\obj\Debug\palindromSator.csprojResolveAssemblyReference.cache

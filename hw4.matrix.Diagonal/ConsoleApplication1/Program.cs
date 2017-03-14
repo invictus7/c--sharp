@@ -39,27 +39,33 @@ namespace ConsoleApplication1
                 Console.WriteLine();
             }
 
-           
 
+            int sum = 0;
             for (int i = 0; i < n - 1; i++)
             {
                 for (int j = 0; j < n - 1; j++)
                 {
-                   // int sum = 0;
-                   // Console.WriteLine( sum=i+j);
+
+                    if (i == j)
+                    {
+                        sum += i + j;
+
+                    }
+
+
                 }
             }
+            Console.WriteLine(sum);
+
+
+            //int MainDiagonal = (matrix[0, 0] + matrix[1, 1] + matrix[2, 2] + matrix[3, 3]);
+            //Console.WriteLine("________");
+            //Console.WriteLine(MainDiagonal);
+            //Console.WriteLine();
 
 
 
-                    //int MainDiagonal = (matrix[0, 0] + matrix[1, 1] + matrix[2, 2] + matrix[3, 3]);
-                    //Console.WriteLine("________");
-                    //Console.WriteLine(MainDiagonal);
-                    //Console.WriteLine();
-
-
-
-                }
+        }
 
     }
 }

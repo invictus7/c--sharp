@@ -1,0 +1,6 @@
+D:\c#\hmw2incaps\hmw2incaps\bin\Debug\hmw2incaps.exe.config
+D:\c#\hmw2incaps\hmw2incaps\bin\Debug\hmw2incaps.exe
+D:\c#\hmw2incaps\hmw2incaps\bin\Debug\hmw2incaps.pdb
+D:\c#\hmw2incaps\hmw2incaps\obj\Debug\hmw2incaps.csprojResolveAssemblyReference.cache
+D:\c#\hmw2incaps\hmw2incaps\obj\Debug\hmw2incaps.exe
+D:\c#\hmw2incaps\hmw2incaps\obj\Debug\hmw2incaps.pdb

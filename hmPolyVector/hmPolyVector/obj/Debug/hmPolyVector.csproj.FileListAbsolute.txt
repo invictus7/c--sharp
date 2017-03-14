@@ -1,0 +1,6 @@
+D:\c#\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.exe.config
+D:\c#\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.exe
+D:\c#\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.pdb
+D:\c#\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.csprojResolveAssemblyReference.cache
+D:\c#\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.exe
+D:\c#\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.pdb

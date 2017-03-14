@@ -1,0 +1,9 @@
+D:\c#\hwmetods2\hwmetods2\bin\Debug\hwmetods2.exe.config
+D:\c#\hwmetods2\hwmetods2\bin\Debug\hwmetods2.exe
+D:\c#\hwmetods2\hwmetods2\bin\Debug\hwmetods2.pdb
+D:\c#\hwmetods2\hwmetods2\obj\Debug\hwmetods2.csprojResolveAssemblyReference.cache
+D:\c#\hwmetods2\hwmetods2\obj\Debug\hwmetods2.exe
+D:\c#\hwmetods2\hwmetods2\obj\Debug\hwmetods2.pdb
+D:\c#\c--sharp\hwmetods2\hwmetods2\bin\Debug\hwmetods2.exe.config
+D:\c#\c--sharp\hwmetods2\hwmetods2\obj\Debug\hwmetods2.exe
+D:\c#\c--sharp\hwmetods2\hwmetods2\obj\Debug\hwmetods2.pdb

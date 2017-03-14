@@ -1,0 +1,6 @@
+D:\c#\c--sharp\hmwstack2\hmwstack2\obj\Debug\hmwstack2.csprojResolveAssemblyReference.cache
+D:\c#\c--sharp\hmwstack2\hmwstack2\bin\Debug\hmwstack2.exe.config
+D:\c#\c--sharp\hmwstack2\hmwstack2\bin\Debug\hmwstack2.exe
+D:\c#\c--sharp\hmwstack2\hmwstack2\bin\Debug\hmwstack2.pdb
+D:\c#\c--sharp\hmwstack2\hmwstack2\obj\Debug\hmwstack2.exe
+D:\c#\c--sharp\hmwstack2\hmwstack2\obj\Debug\hmwstack2.pdb

@@ -1,0 +1,12 @@
+D:\c#\lesson12\lesson12\bin\Debug\lesson12.exe.config
+D:\c#\lesson12\lesson12\bin\Debug\lesson12.exe
+D:\c#\lesson12\lesson12\bin\Debug\lesson12.pdb
+D:\c#\lesson12\lesson12\obj\Debug\lesson12.csprojResolveAssemblyReference.cache
+D:\c#\lesson12\lesson12\obj\Debug\lesson12.exe
+D:\c#\lesson12\lesson12\obj\Debug\lesson12.pdb
+D:\c#\househm1class\lesson12\bin\Debug\lesson12.exe.config
+D:\c#\househm1class\lesson12\obj\Debug\lesson12.exe
+D:\c#\househm1class\lesson12\obj\Debug\lesson12.pdb
+D:\c#\househm1class\lesson12\bin\Debug\lesson12.exe
+D:\c#\househm1class\lesson12\bin\Debug\lesson12.pdb
+D:\c#\househm1class\lesson12\obj\Debug\lesson12.csprojResolveAssemblyReference.cache

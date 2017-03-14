@@ -1,0 +1,6 @@
+D:\c#\c--sharp\househm1class\house\bin\Debug\lesson12.exe.config
+D:\c#\c--sharp\househm1class\house\obj\Debug\lesson12.exe
+D:\c#\c--sharp\househm1class\house\obj\Debug\lesson12.pdb
+D:\c#\c--sharp\househm1class\house\bin\Debug\lesson12.exe
+D:\c#\c--sharp\househm1class\house\bin\Debug\lesson12.pdb
+D:\c#\c--sharp\househm1class\house\obj\Debug\house.csprojResolveAssemblyReference.cache
