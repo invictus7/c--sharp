@@ -4,3 +4,9 @@ D:\c#\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.pdb
 D:\c#\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.csprojResolveAssemblyReference.cache
 D:\c#\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.exe
 D:\c#\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.pdb
+D:\c#\c--sharp\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.exe.config
+D:\c#\c--sharp\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.exe
+D:\c#\c--sharp\hmPolyVector\hmPolyVector\bin\Debug\hmPolyVector.pdb
+D:\c#\c--sharp\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.csprojResolveAssemblyReference.cache
+D:\c#\c--sharp\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.exe
+D:\c#\c--sharp\hmPolyVector\hmPolyVector\obj\Debug\hmPolyVector.pdb

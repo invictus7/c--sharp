@@ -33,6 +33,8 @@ namespace hmPolyVector
                     Console.Write(v[i].PrintCalc());
                 }
             }
+
+            Console.ReadKey();
         }
     }
 }
